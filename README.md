@@ -4,7 +4,7 @@
 
 ## Table of Contents:
 
-- 1/11
+- 1/11 Introductory HTML and JavaScript
 
 - 1/14
 
