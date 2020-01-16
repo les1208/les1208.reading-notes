@@ -18,6 +18,14 @@
 - CSS works by associating rules with HTML elements. 
 A CSS rule contains two parts: a selector and a declaration.
 - CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, seperated by a colon. 
+<<<<<<< HEAD
+=======
+- 1/15
+
+- 1/16
+
+- 1/18
+>>>>>>> 8bd5366ff8df38b871e41d16241add82ae507ad9
 - 1/15
 
 - 1/16
