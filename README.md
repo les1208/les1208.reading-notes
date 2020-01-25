@@ -61,3 +61,19 @@ A CSS rule contains two parts: a selector and a declaration.
 - Functions consist of a series of statements that have been grouped together because they perform a specific task. A method is the same as a function, except methods are created inside (and are part of) an object.
 - Objects are made up of properties and methods.
 
+# January 25, 2020
+## Images
+
+- < img > element is used to add images to a web page and it must carry the two following attributes: 
+src tells the browser where it can find the image file. 
+- alt  provides a text description of the image which describes the image if you cannot see it. 
+You can use title attribute with img element to provide additional information about image. 
+- img element will also use two other attributes that specify the size: height and width which specify size in pixels.
+- Where you place the img in the code is important because browsers show HTML elements in on of two ways: 
+- block elements always appear on a new line. ex: h1 and p elements.
+- inline elements sit within a block level element and do not start on a new line. ex: b, em, and img elements.
+- three rules to remember when you are creating images. Save images in the right format, save images at the right size, and use the correct resolution.
+- Photographs are best saved as JPEGs.
+
+## Color
+
