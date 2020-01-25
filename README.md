@@ -77,3 +77,14 @@ You can use title attribute with img element to provide additional information a
 
 ## Color
 
+- You can specify color in CSS one of three ways:
+RGB values, hex codes, and color names. 
+- When picking foreground and background colors, ensure that there is enough contrast for text to be legible.
+-CSS3 has introduces an extra value for RGB colors to indicate opacity, known as RGBA.
+
+## Text
+
+- The font family property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rule applies. 
+- The font size property enables you to specify a size for the font.
+- You can control the space between lines of text, individual letters, and words, text can also be aligned to the left, right, and center, or justified. It can also be indented. 
+- You can use pseudo-classes to change the style of an element when a user hovers over.
