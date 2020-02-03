@@ -27,3 +27,6 @@ As a browser loads a web page, it creates a model of that page. The model is cal
 - From an element node, you can access and update its content using properties such as textContent and innerHTML or using DOM manipulation techniques.
 - An element node can contain multiple text nodes and child elements that are siblings of each other.
 - Each node is an object with methods and properties. Scripts access and update this dom tree. Any changes made to the dom tree are reflected in the browser.
+
+## Class Lecture 
+- // template literals: `The sum of ${a} and ${b} is ${sum}.`;
