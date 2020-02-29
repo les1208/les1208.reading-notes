@@ -2,7 +2,13 @@
 
 ### This is where my reading/notes for class 201 will be.
 
-## Table of Contents:
+- https://learn.shayhowe.com/advanced-html-css/css-transforms/
+- https://learn.shayhowe.com/advanced-html-css/transitions-animations/
+- https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/
+- https://codepen.io/retyui/pen/ByoaXV
+- https://codepen.io/akshaychauhan/pen/oAfae
+- https://codepen.io/kieranfivestars/pen/MYdQxX
+- https://codepen.io/dp_lewis/pen/gCfBv
 
 - 1/11 Introductory HTML and JavaScript
 
