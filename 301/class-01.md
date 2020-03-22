@@ -14,7 +14,8 @@ Four valid values for the float property. Left and Right float elements those di
 Floats can be used to create entire web layouts
 
 ## Resources 
-https://css-tricks.com/dont-overthink-it-grids/
-https://www.freecodecamp.org/news/css-floats-explained-by-riding-an-escalator-57fa55232333/
-http://smacss.com/
+- https://css-tricks.com/dont-overthink-it-grids/
+- https://www.freecodecamp.org/news/ 
+- css-floats-explained-by-riding-an-escalator-57fa55232333/
+- http://smacss.com/
 
