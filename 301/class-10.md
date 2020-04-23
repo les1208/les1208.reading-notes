@@ -12,9 +12,11 @@ LIFO: When we say that the call stack, operates by the data structure principle 
 - The call stack is primarily used for function invocation (call). Since the call stack is single, function(s) execution, is done, one at a time, from top to bottom. It means the call stack is synchronous.
 
 
-``` Manage function invocation (call): The call stack maintains a record of the position of each stack frame. // It knows the next function to be executed (and will remove it after execution). This is what makes code execution in JavaScript synchronous.
+```
+ // Manage function invocation (call): The call stack maintains a record of the position of each stack frame. 
+ // It knows the next function to be executed (and will remove it after execution). This is what makes code execution in JavaScript synchronous. <br>
 
-// Think of yourself standing on a queue, in a grocery store cash point. You can only be attended to after the person in front of you have been attended to. That’s synchronous.
+// Think of yourself standing on a queue, in a grocery store cash point. You can only be attended to after the person in front of you have been attended to. That’s synchronous. <br>
 
 // This is what we mean by “manage function invocation”.
 ``` 
