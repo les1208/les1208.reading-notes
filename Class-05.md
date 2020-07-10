@@ -33,4 +33,30 @@ The Big O of time for Includes would be O(n). This is because, at its worse case
 
 The Big O of space for Includes would be O(1). This is because there is no additional space being used than what is already given to us with the linked list input.
 
-Adding a Node
+#### Adding a Node
+- Adding O(1)
+Order of operations is extremely important when it comes to working with a Linked List. 
+What I mean by this is you must be careful that all references to each link/node is properly assigned.
+
+- An example can be with adding a node to a linked list. If we want to add a node with an O(1) efficiency, we have to replace the current Head of the linked list with the new node, without losing the reference to the next node in the list.
+
+- Here are the required steps to add a new node with an O(1) efficiency.
+Set Current equal to Head. This will guarantee us that we are starting from the very beginning.
+We can then instantiate the new node that we are adding. 
+The values passed in as arguments into the Add() method will define what the value of the Node will be.
+
+#### Prerequisites
+- When constructing your code, a few things to keep in mind.
+
+- When making your Node class, consider requiring a value to be passed in to require that each node has a value.
+
+- When making a Linked List, you may want to require that at least one node gets passed in upon instantiation. 
+This first node is what your Head and Current will point too.
+
+https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d
+- One characteristic of linked lists is that they are linear data structures, which means that there is a sequence and an order to how they are constructed and traversed. 
+We can think of a linear data structure like a game of hopscotch: in order to get to the end of the list, we have to go through all of the items in the list in order, or sequentially. 
+Linear structures, however, are the opposite of non-linear structures. In non-linear data structures, items don’t have to be arranged in order, which means that we could traverse the data structure non-sequentially.
+##### Memory Management 
+- When an array is created, it needs a certain amount of memory. If we had 7 letters that we needed to store in an array, we would need 7 bytes of memory to represent that array. But, we’d need all of that memory in one contiguous block. That is to say, our computer would need to locate 7 bytes of memory that was free, one byte next to the another, all together, in one place.
+On the other hand, when a linked list is born, it doesn’t need 7 bytes of memory all in one place. One byte could live somewhere, while the next byte could be stored in another place in memory altogether! Linked lists don’t need to take up a single block of memory; instead, the memory that they use can be scattered throughout.
