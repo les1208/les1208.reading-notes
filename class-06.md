@@ -1,0 +1,2 @@
+## Read: OOP Principles
+- There was a lot that I didn't understand when first started. Being the first time I've seen this language, the one thing I understand better in OOP is how classes and objects work. This was the one subject where I felt like I understood out of all the subjects introduced last week. 
